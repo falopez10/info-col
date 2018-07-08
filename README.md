@@ -4,7 +4,7 @@ Este proyecto es realizado para permitir a los Colombianos tener información cl
 
 ## Recursos
 
-* Los datos usados se basan en el aporte de [infrahumano](https://github.com/infrahumano/elecciones2018).
+* Los datos se toman del aporte de [infrahumano](https://github.com/infrahumano/elecciones2018).
 
 ### Tecnologías usadas
 
